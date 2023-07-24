@@ -13,4 +13,4 @@ Information relating to the JVM’s Tool Interface
 - [Intercepting JNI](https://placeholder.com)
 
 ### External Resources
-- [JVMTI Specification](https://docs.oracle.com/javase/8/docs/platform/jvmti/jvmti.html)
+- [JVMTI Specification](https://docs.oracle.com/en/java/javase/20/docs/specs/jvmti.html)
