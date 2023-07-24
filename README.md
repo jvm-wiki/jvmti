@@ -1,5 +1,5 @@
-# jvmti
-Information relating to the JVM’s Tool Interface
+# 🛠️ JVMTI
+Learn about the Tool Interface and it's uses.
 
 ## Contents
 ### Introduction
